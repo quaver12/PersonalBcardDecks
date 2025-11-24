@@ -1,0 +1,302 @@
+
+h:Household nouns:
+--------------------
+
+q:the fork
+a:die Gabel
+ -
+q:the knife
+a:das Messer
+ -
+q:the floor
+a:der Boden
+ -
+q:the room
+a:das Zimmer
+ - 
+q:the bedroom
+a:das Shlafzimmer
+ - 
+q:the bathroom
+a:das Badetzimmer
+ - you can also just say 'Bad' E.g. Ich gehe im Bad
+q:the kitchen
+a:die Kuche
+ - 
+q:the basement/cellar
+a:der Keller
+ -
+q:the house
+a:das Haus
+ -  
+q:the garden
+a:der Garten
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
+h:Places in town
+----------------
+
+q:the cinema
+a:das Kino
+ -
+q:the pharmacy
+a:die Apotheke
+ -
+q:the bank
+a:die Bank
+ -
+q:the train station
+a:der Bahnhof
+ -
+q:the airport
+a:der Flughafen
+ -
+q:the hospital
+a:das Krankenhaus
+ -
+q:the park
+a:der Park
+ -
+q:the swimming pool
+a:das Schwimmbad
+ -
+q:the supermarket
+a:der Supermarkt
+ -
+q:the gym
+a:das Fitnessstudio
+ -
+q:the shop
+a:das Geschaft
+ -
+q:the Pub
+a:die Kneipe
+ -
+
+h:Other Useful Objects!
+q:the picture
+a:das Bild
+ - 
+q:the football platz
+a:der fussbal platz
+ - 
+q:the bookshop
+a:die Buchhandlung
+ - translates to something along the lines of 'the book trade'.
+
+
+	
+
+h:Animals!
+----------
+q:the duck
+a:die Ente
+- 
+
+
+
+
+
+
+
+h:Adjectives!
+-------------
+q:messy
+a:unordentlich
+- 
+q:dramatic
+a:dramatisch
+- 
+q:lazy
+a:faul
+ - 
+q:important
+a:wichtig
+
+
+
+
+h:Verbs!
+--------
+q:to earn
+a:vierdienen
+ - 
+q:to rent
+a:mieten
+ - 
+q:to stand
+a:stehen
+ - Used for objects that 'stand' on a table - e.g. Die Flasche steht auf dem Tisch.
+q:to lie (as in lie down not tell a lie)
+a:legen
+- also used for objects that 'lie' on something - e.g. Das Buch legt auf dem Tisch.
+q:to hang
+a:hangen
+ - Das Bild hangt am der Wand.
+q:washing up
+a:abwaschen
+ - seperable! (washen ab)
+q:to run
+a:laufen
+ - 
+q:to become
+a:wirden
+ - top 3 verb in the language!!
+q:to bother/disturb
+a:storen
+ -  
+q:to invite
+a:einladen
+ - Seperable! ein/laden
+
+
+
+h:adverbs
+---------
+q:hopefully
+a:hoffenlich
+ - 
+q:unfortunately
+a:leider
+ -
+
+
+
+
+h:kleidung - clothing!
+----------------------
+q:the trousers
+a:die Hose
+ - singular in german!
+q:the jumper
+a:der Pullover
+ -
+q:the T-shirt
+a:das T-shirt
+ - 
+q:the jacket
+a:die Jacke
+ -
+
+
+
+
+h:misc nouns!
+-------------
+q:the wheelchair
+a:der Rollstuhl
+ - 
+q:the fever
+a:das Fieber
+ - 
+q:the headache
+a:die Kopfschmerzen
+ - 'der Kopfschmerz' is actually masculine, but always plural in converstation! E.g. Ich habe Kopfschmerzen
+q:the theme
+a:der theme
+ - 
+
+
+
+h:Translate the following english phrases to german:
+----------------------------------------------------
+q:for example
+a:zum Beispiel
+ -
+q:Los Gehts!
+a:Let's go!
+ - 
+q:Drop it!
+a:Lass das
+ - Let go / drop it / stop doing that / oh come off it / oh please drop it. Could be used to command a dog to drop, could be used to tell someone to stop doing something.
+
+
+
+h:Prepostitions that always take the dative
+-------------------------------------------
+q:at,near,at the house of 
+a:bei
+ -
+q:thanks to
+a:dank
+ - 
+q:since/for
+a:seit
+ - 
+q:according to
+a:laut
+ - though - 'zufolge' would also be correct!
+q:with
+a:mit
+ -
+q:after
+a:nach
+ - 
+q:to
+a:zu
+ -
+
+
+h:Prepostitions that always take the accusative
+----------------------------------------------
+q:until/up to/as far as
+a:bis
+ - 
+q:through/ by means of
+a:durch
+ - 
+q:for
+a:fur
+ - u has umlaut 
+q:without
+a:ohne
+ - 
+q:against/towards
+a:gegen
+ - 
+q:around/for
+a:um
+ - 
+
+h:Prepositions that take both acc & dat
+---------------------------------------
+q:between
+a:zwischen
+ - 
+q:in front of 
+a:vor
+ - 
+q:behind
+a:hinter
+ - 
+q:under
+a:unter
+ - 
+q:above
+a:uber
+ - u has umlaut
+q:in/into
+a:in
+ - 
+q:next to
+a:neben
+ - 
+q:on (a vertical surface)
+a:an
+ - 
+q:on (a horiontal surface)
+a:auf
+ - 
+
+
