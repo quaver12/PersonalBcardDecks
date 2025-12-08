@@ -1,0 +1,292 @@
+
+h:Lingo
+----------------------
+q:the ingredient
+a:die Zutat
+ -
+q:the meal
+a:die Mahlzeit
+ -
+q:the taste/flavour
+a:der Gerschmack
+ -
+q:the Dinner
+a:das Abendessen
+ -
+q:the Breakfast
+a:das Fruhstuck
+ - umlaut on both u's
+q:the Lunch
+a:das Mittagessen
+ -
+q:the food
+a:das Essen
+ -
+q:the Dish (like meal not a plate)
+a:das Gericht
+ -
+
+
+
+h:Fruit - (Obst)
+----------------------
+
+q:without looking! what is 'the fruit'
+a:das Obst
+ - plural is same as singular
+q:the apple
+a:der Apfel
+ - (pl) Apfel (with umlaut on A)
+q:the banana
+a:die Banane
+ - (pl) Bananen
+q:the orange
+a:die Orange
+ - (pl) Orangen
+q:the strawberry
+a:die Erdberre
+ - (pl) Erdberren
+q:the grape
+a:die Traube
+ - (pl) Trauben
+q:the lemon
+a:die Zitrone
+ - (pl) Zitronen
+q:the pineapple
+a:die Ananas
+ - plural is the same
+q:the cherry
+a:die Kirsche
+ - (pl) Kirschen
+q:the pear
+a:die Birne
+ - (pl) Birnen
+q:the plum
+a:die Pflaume
+ - (pl) Pflaumen
+
+
+h:Vegetables (Gemuse - umlaut on u)
+----------------------
+q:without looking! what is 'the vegetable'
+a:das Gemuse
+ - umlaut on u - plural same as singular
+q:the carrot
+a:die Karotte
+ - (pl) Karotten
+q:the tomato
+a:die Tomate
+ - (pl) Tomaten
+q:the potato
+a:die Kartoffel
+ - (pl) Kartoffeln
+q:the cucumber
+a:die Gurke
+ - (pl) Gurken
+q:the onion
+a:die Zwiebel
+ - (pl) Zwiebeln
+q:the lettuce
+a:der Salat
+ - full name Salatpflanze (pl) Salatpflazen
+q:the Broccoli
+a:der Brokkoli
+ - plural either Brokkoli/Brokkilis (fact check this)
+q:the cauliflower
+a:der Blumenkohl
+ - (pl) Blumenkohle
+q:the (bell) pepper
+a:die Paprika
+ - (pl) Paprikas
+q:the spinach
+a:der Spinat
+ - (pl) Spinate
+
+
+
+
+h:Dairy Products (Milchprodukte)
+---------------------
+q:the milk
+a:die Milch
+ -
+q:the cheese
+a:der Kase
+ - umlaut on a - plural would be the Kasesorten
+q:the yogurt
+a:der Joghurt
+ - (pl) Joghurts
+q:the butter
+a:die Butter
+ -
+q:the cream
+a:die Sahne
+ -
+q:the cream cheese
+a:der Frischkase
+ - umlaut on a
+
+
+
+
+h:Meats and Protein (Fleisch und Eiweiss)
+------------------------------------------
+q:the meat
+a:das Fleisch
+ -
+q:the chicken
+a:das Hahnchen
+ - umlaut on a
+q:the beef
+a:das Rindfleisch
+ -
+q:the pork
+a:das Schweinefleisch
+ -
+q:the sausage
+a:die Wurst
+ - (pl) Wurste - umlaut on u
+q:the fish
+a:der Fisch
+ -
+q:the egg
+a:das Ei
+ - (pl) Eier
+q:the mince meat
+a:das Hackfleisch
+ -
+q:the ham
+a:der Schinken
+ -
+q:the shrimp
+a:die Garnelen
+ - shrimps/prawns/all of that
+
+
+
+
+h:Grains and Bread (Getreide und Brot)
+-------------------------------------
+q:the bread
+a:das Brot
+ -
+q:the bread roll
+a:das Brotchen
+ - umlaut on o - plural the same as singular
+q:the rice
+a:der Reis
+ -
+q:the noodles (pasta)
+a:die Nudeln
+ -
+q:the muesli
+a:das Musli
+ - umlaut on u
+q:the oats
+a:die Haferflocken
+ -
+q:the rye bread
+a:das Roggenbrot
+ -
+q:the wheat bread
+a:das Weizenbrot
+ -
+q:the cake
+a:der Kuchen
+ - plural is same as singular
+q:the biscuit
+a:der Keks
+- (pl) Kekse
+q:the pretzel
+a:die Bretzel
+ - 
+
+
+
+
+h:Other Common Ingredients (Häufige Zutaten)
+--------------------------
+q:the oil
+a:das Ol
+ - o has an umlaut
+q:the sugar
+a:der Zucker
+ -
+q:the Flour
+a:das Mehl
+ -
+q:the salt
+a:das Salz
+ -
+q:the pepper (seasoning)
+a:der Pfeffer
+ -
+q:the herbs
+a:die Krauter
+ - umlaut on a  - singular 'herb' = das Kraut
+
+
+
+
+h:Meals (Mahlzeiten)
+----------------------
+q:the lasagne
+a:die Lasagne
+ -
+q:the sandwich
+a:das Sandwich
+ -
+q:the chips
+a:die Pommes
+ -
+q:the pancake
+a:der Pfannkuchen
+ -
+q:the coffee
+a:der Kaffee
+ -
+q:the omelette
+a:das Omelett
+ -
+
+
+h:Cooking Techniques (Kochtechniken)
+------------------------------------
+q:to cook
+a:kochen
+ -
+q:to fry
+a:braten
+ -
+q:to bake
+a:baken
+ -
+q:to steam
+a:dampfen
+ - umlaut on a
+q:to grill
+a:grillen
+ -
+q:to cut
+a:schneiden
+ -
+q:to mix
+a:mischen
+ -
+q:to stir
+a:ruhren
+ - umlaut on u
+q:to poach
+a:pochieren
+ -
+q:to deep fry
+a:frittieren
+ -
+
+
+
+
+
+
+
+

@@ -40,3 +40,22 @@ h:Compound Formulae
 q: Compound Formulae are formed of, atomic formulae, logical connectives, and what?
 a: Quantifiers
     - The quantifiers: Existential (backwards E) and Universal (Upside down A).
+
+
+
+h:Practical Questions. Use 'A' and 'E' as quantifiers if needed.
+q:Assuming the following atomic formula: Adam is tall, Beth is tall, Carl is tall. How do we capture all in a single atomic formula?
+a:T(x)
+ -  where T = 'is tall' and x = someone.
+q:What is the negation of the formula: All musicians can sing.
+a:There exists a musician who can't sing.
+ - If you got along those lines, assume correct.
+q:What is the negation of the formula (E and A are the quatifiers): ExD(x)
+a:Ax~D(x)
+    -   say D is 'can dance' and x is 'someone'. ExD(x) assumes there exists someone who can dance. The negation of this is 'Every person cannot dance': Ax~D(x)
+q:Which option correctly represents 'Each student on the course has a copy of a book'. a - AsEbH(s,b) or b - EbAsH(s,b)
+a:a
+ - b suggest 'there exists a book that every student has.' (maybe there is only one copy in the library for them to share). a suggests 'for every student there exists a book that the student has' which is correct.
+q:Using P(x,y) = x is the parent of y, and k = a kid, write 'all of Homer's kids are also Marge's kids' (use single letters for names)
+a:AkP(h,k)->P(m,k)
+ - 'if... then' is used because the statement given doesn't exlude the possibility that Marge may have kids who aren't Homer's kids.

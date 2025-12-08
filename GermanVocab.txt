@@ -1,13 +1,7 @@
 
-h:Household nouns:
+h:Areas of the House:
 --------------------
 
-q:the fork
-a:die Gabel
- -
-q:the knife
-a:das Messer
- -
 q:the floor
 a:der Boden
  -
@@ -31,7 +25,164 @@ a:das Haus
  -  
 q:the garden
 a:der Garten
+- 
+q:the gate
+a:das Tor
  - 
+q:the lawn
+a:der Rasen
+ - 
+
+q:the path
+a:der Pfad
+ - 
+q:the roof
+a:das Dach
+ - 
+q:the attic/loft
+a:der Dachboden
+ -
+q:the patio
+a:die Terrasse
+ -
+q:the balcony
+a:der Balkon
+ -
+q:the yard
+a:der Hof
+ -
+q:the desk
+a:der Schreibtisch
+ -
+
+h:Household Items
+-----------------
+q:the bench
+a:die Bank
+ - 
+q:the staircase
+a:die Treppe
+ - 
+q:the Blanket
+a:die Decke
+ - 
+q:the bed
+a:das Bett
+ - 
+q:the stool (a small one, stepping stool etc)
+a:der Hocker
+ - 
+q:the rubbish
+a:der Mull
+ - umlaut on the u
+q:the hand towel
+a:das Handtuch
+ - 
+q:the picture
+a:das Bild
+ - 
+q:the key
+a:der Schlussel
+ - u has umlaut
+q:the keys (plural)
+a:die Schussel
+ - u has umlaut
+q:the key hole
+a:das Schloss
+ - 
+q:the sofa
+a:das Sofa
+ -
+q:the rug
+a:der Teppich
+ -
+q:the curtains
+a:die Gardinen
+ -plural same as English
+q:the clock
+a:die Uhr
+ -
+q:the TV
+a:der Fernseher
+ -
+q:the wall
+a:die Wand
+ -
+q:the ceiling
+a:die Decke
+ -
+
+
+
+
+h:Kitchen Items
+---------------
+q:the fork
+a:die Gabel
+ -
+q:the knife
+a:das Messer
+ -
+q:the spoon
+a:der Loffel
+ - umlaut on the o
+q:the glass
+a:das Glas
+ -
+q:the cup
+a:die Tasse
+ -
+q:the bowl
+a:die Schussel
+ - umlaut on the u
+q:the plate
+a:der Teller
+ -
+q:the scissors
+a:die Schere
+ - just think 'the shears'!
+q:the saucepan
+a:der Topf
+ -
+q:the frying pan
+a:die Bratpfanne
+ - think Bratwurst, Bratketoffeln - braten = fry
+q:the toaster
+a:der Toaster
+ -
+q:the kettle
+a:der Kessel
+ -
+q:the microwave
+a:die Mikrowelle
+ -
+q:the hob/stove
+a:der Herd
+ -
+q:the oven
+a:der Ofen
+ -
+q:the fridge
+a:der Kuhlschrank
+ - umlaut on the u
+q:the sink
+a:die Spule
+ - umlaut on the u
+q:the dishwasher
+a:die Spulmaschine
+ -umlaut on the u - the sink machine!
+q:the counter
+a:die Theke
+ -
+q:the washing machine
+a:die Waschmaschine
+ -
+q:the dryer
+a:der Waschentrockner
+ - umlaut on the first a
+
+
+
 
 
 
@@ -84,27 +235,48 @@ q:the Pub
 a:die Kneipe
  -
 
-h:Other Useful Objects!
-q:the picture
-a:das Bild
- - 
 q:the football platz
 a:der fussbal platz
  - 
 q:the bookshop
 a:die Buchhandlung
  - translates to something along the lines of 'the book trade'.
+q:the bar
+a:die Bar
+ - 
+q:the factory
+a:die Fabrik
+ - 
+q:the stop (could be bus stop but not specifically)
+a:die Haltestelle
+ - 
+q:the florist
+a:das Blumengeshaft
+ - 
+q:the bus stop
+a:die Bushaltestelle
+ - 
+q:the tennis court
+a:der Tenissplatz
+ - 
+q:the sports pitch
+a:der Sportsplatz
+ - 
 
 
-	
+
 
 h:Animals!
 ----------
 q:the duck
 a:die Ente
 - 
-
-
+q:the dog
+a:der Hund
+ - 
+q:the cat
+a:die Catze
+ - 
 
 
 
@@ -137,10 +309,16 @@ a:mieten
  - 
 q:to stand
 a:stehen
- - Used for objects that 'stand' on a table - e.g. Die Flasche steht auf dem Tisch.
+ - Used for objects that 'stand' on a table - e.g. Die Flasche steht auf dem Tisch. Not to be cofused with stellen
 q:to lie (as in lie down not tell a lie)
+a:liegen
+- also used for objects that 'lie' on something - e.g. Das Buch legt auf dem Tisch. Not to be confused with legen - put
+q:to put (something that stands)
+a:stellen
+ - not to be confused with stehen
+q:to put (something that is lying down)
 a:legen
-- also used for objects that 'lie' on something - e.g. Das Buch legt auf dem Tisch.
+ - not to be confused with liegen
 q:to hang
 a:hangen
  - Das Bild hangt am der Wand.
@@ -151,7 +329,7 @@ q:to run
 a:laufen
  - 
 q:to become
-a:wirden
+a:werden
  - top 3 verb in the language!!
 q:to bother/disturb
 a:storen
@@ -159,13 +337,17 @@ a:storen
 q:to invite
 a:einladen
  - Seperable! ein/laden
-
-
+q:to tidy up
+a:aufraumen
+ - umlaut on second a - also seperable! auf/raumen
+q:to bring
+a:bringen
+ - 
 
 h:adverbs
 ---------
 q:hopefully
-a:hoffenlich
+a:hoffentlich
  - 
 q:unfortunately
 a:leider
