@@ -1,0 +1,57 @@
+h:Translate the following to german!
+
+q:the head
+a:der Kopf
+ - 
+q:the hair
+a:die Haare
+ - note: this is plural for when it's someone's hair on their head
+q:the nose
+a:die Nase
+ -
+q:the mouth
+a:der Mund
+-
+q:the neck
+a:der Hals
+-
+q:the eyes
+a:die Auge
+-
+q:the shoulder
+a:die Schulter
+-
+q:the back
+a:der Rucken
+(Umlaut on the u)
+q:the arm
+a:der Arm
+-
+q:the leg
+a:das Bein
+-
+q:the knee
+a:das Knie
+-
+q:the foot
+a:der Fuss
+- (ß not ss)
+q:the face
+a:das Gesicht
+-
+q:the hand
+a:die Hand
+-
+q:the finger
+a:der Finger
+-
+q:the thumb
+a:der Daumen
+-
+q:the toe
+a:der Zeh
+-
+
+Other ones to do:
+    colours
+    clothing
