@@ -1,0 +1,85 @@
+h:convert the following verbs to their past tense form (followed by either haben or sein):
+
+q:gehen
+a:gegangen sein
+
+q:essen
+a:gegessen haben
+
+q:machen
+a:gemacht haben
+
+q:fragen
+a:gefragt haben
+
+q:sagen
+a:gesagt haben
+
+q:fahren
+a:gefahren sein
+ -- unless you mean 'i drove', then it takes haben
+q:kommen
+a:gekommon sein
+
+q:fliegen
+a:geflogen sein
+
+q:beginnen
+a:begonnen haben
+
+q:vergessen
+a:vergessen haben
+
+q:schwimmen
+a:geschwommen sein
+
+q:aufstehen
+a:aufgestanden sein
+
+q:aufwachen
+a:aufgewacht sein
+
+q:bleiben
+a:gebleiben sein
+
+q:sitzen
+a:gesessen haben
+
+q:standen
+a:gestanden haben
+
+q:reparieren
+a:repariet haben
+
+q:schlafen
+a:geschlafen haben
+
+q:lesen
+a:gelesen haben
+
+q:sehen
+a:gesehen haben
+
+q:erzahlen
+a:erzahlt haben
+ (umlaut on the a)
+q:einsteigen
+a:eingesteigen sein
+
+q:aussteigen
+a:ausgesteigen sein
+
+q:vorschlagen
+a:vorgeschlagen haben
+
+q:anrufen
+a:angerufen haben
+
+
+
+
+
+
+
+
+

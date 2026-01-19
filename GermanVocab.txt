@@ -343,6 +343,13 @@ a:aufraumen
 q:to bring
 a:bringen
  - 
+q:to transfer (money)
+a:uberweisen 
+ - umlaut on the u
+q:to look
+a:schauen
+ - 
+
 
 h:adverbs
 ---------
@@ -388,7 +395,9 @@ a:die Kopfschmerzen
 q:the theme
 a:der theme
  - 
-
+q:the joke
+a:der Witz
+ -
 
 
 h:Translate the following english phrases to german:
@@ -403,7 +412,9 @@ q:Drop it!
 a:Lass das
  - Let go / drop it / stop doing that / oh come off it / oh please drop it. Could be used to command a dog to drop, could be used to tell someone to stop doing something.
 
-
+q:zum Gluck
+a:luckily
+ - umlaut on the u
 
 h:Prepostitions that always take the dative
 -------------------------------------------

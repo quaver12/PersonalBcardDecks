@@ -1,0 +1,42 @@
+
+---------------------------------------
+h:Learn your scales: Major
+q:What are the notes of C
+a:CDEFGAB
+-
+q:What are the notes of G
+a:GABCDEF#
+-
+q:What are the notes of D
+a:DEF#GABC#
+-
+q:What are the notes of A
+a:ABC#DEF#G#
+-
+q:What are the notes of E
+a:EF#G#ABC#D#
+-
+q:What are the notes of B
+a:BC#D#EF#G#A#
+-
+q:What are the notes of F#
+a:F#G#A#BC#D#E#
+-
+
+
+---------------------------------------
+h:Learn your scales: Minor (natural)
+
+
+
+
+---------------------------------------
+h:MAJOR KEYS
+q:What is chord VII in C major
+a:B diminished
+ - 
+q:What is chord II in D major
+a:F#m
+ - 
+
+
