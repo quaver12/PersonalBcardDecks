@@ -278,8 +278,39 @@ q:the cat
 a:die Catze
  - 
 
+h:Colours!
 
+q:yellow
+a:gelb
 
+q:blue
+a:blau
+
+q:white
+a:weiss
+ß not ss
+
+q:grey
+a:grau
+
+q:brown
+a:braun
+
+q:purple
+a:lila
+oder "violett"
+
+q:red
+a:rot
+
+q:black
+a:schwarz
+
+q:orange
+a:orange
+
+q:pink
+a:rosa
 
 
 h:Adjectives!
@@ -363,23 +394,77 @@ a:leider
 
 
 
-h:kleidung - clothing!
+h:Die kleidung - clothing!
 ----------------------
+q:to wear
+a:tragen
+ - trage / trägst / trägt / tragen
 q:the trousers
 a:die Hose
  - singular in german!
 q:the jumper
 a:der Pullover
- -
+ - or just "der Pulli"
 q:the T-shirt
 a:das T-shirt
  - 
 q:the jacket
 a:die Jacke
  -
-
-
-
+q:the sock
+a:die Socke
+ -
+q:the Shorts
+a:die Kurz Hose
+ - or just die Shorts
+q:the shirt
+a:das Hemd
+ -
+q:the blouse
+a:die Bluse
+ -
+q:the jeans
+a:die Jeans
+ -
+q:the sleeves
+a:die Ärmel
+ -
+q:the skirt
+a:der Rock
+ -
+q:the dress
+a:das Kleid
+ -
+q:the leggings
+a:die Leggings
+ -
+q:the Suit
+a:der Anzug
+ -
+q:the tie
+a:die Krawatte
+ -
+q:the hoodie
+a:der Kapuzenpulli
+ - or just der Hoodie
+q:the coat
+a:der Mantel
+ -
+q:the hat
+a:der Hut
+ -
+q:the glove
+a:der Handschuh
+ -
+q:the boot
+a:der Stiefel
+ -
+q:the heels
+a:die Abstäze
+ -
+q:the sandals
+a:die Sandelen
+ -
 
 h:misc nouns!
 -------------
@@ -400,21 +485,57 @@ a:der Witz
  -
 
 
-h:Translate the following english phrases to german:
+h:English phrases to german:
 ----------------------------------------------------
+q:right
+a:stimmt's
+
+q:that's fine
+a:passt schon
+
+q:No idea
+a:keine Ahnung
+
+q:I don't care
+a:Es juckt mich nicht
+
+q:Are you kidding me?
+a:Willst du mich verarschen?
+
 q:for example
 a:zum Beispiel
  -
-q:Los Gehts!
-a:Let's go!
+q:Let's go
+a:Los Gehts
  - 
 q:Drop it!
 a:Lass das
  - Let go / drop it / stop doing that / oh come off it / oh please drop it. Could be used to command a dog to drop, could be used to tell someone to stop doing something.
 
-q:zum Gluck
-a:luckily
+q:luckily
+a:zum gluck
  - umlaut on the u
+
+q:one more time please
+a:Noch einmal bitte
+
+q:Can you repeat that please?
+a:Kannst du das bitte wiederholen?
+
+q:Sorry? / Pardon? / Excuse me?
+a:Wie bitte
+
+q:What do you mean?
+a:Was meinst du?
+
+q:What do you think?
+a:Was denkst du?
+"Was glaubst du" also works
+
+q:I should have known
+a:Ich hatte es wissen mussen
+
+
 
 h:Prepostitions that always take the dative
 -------------------------------------------
