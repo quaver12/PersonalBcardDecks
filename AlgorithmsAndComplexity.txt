@@ -1,0 +1,134 @@
+
+h:Space Complexity
+------------------
+q:A program has the following variables: int a, int b, int[n] c. What is the space complexity in bytes? Assume an int takes up 4 bytes of space.
+a:4n+8
+
+q:A program has the following variables: int a, char b, int[n] c. What is the space complexity in bytes? Assume an int takes up 4 bytes of space.
+a:4n+5
+
+q:A program has the following variables: int a, int[n] b, char[n] c. What is the space complexity in bytes? Assume an int takes up 4 bytes of space.
+a:5n+4
+
+q:A program has the following variables: char a, int b, short[n] c. What is the space complexity in bytes? Assume an int takes up 4 bytes of space.
+a:2n+5
+
+
+h:types of time complexity
+---------------
+q:What type of complexity do nested for loops commonly have?
+a:quadratic
+
+q:what type of complexity does the following have: always has the same runtime, no matter the size of input
+a:constant
+
+q:what type of complexity does the following have: T(n) = 5n+3
+a:linear
+
+q:what type of complexity does the following code have: 
+a:
+
+h:The Sigma rules: ABCDEF - Assume NΣi=1(x) where N is the upper limit, Σ is sigma, i=1 is the lower limit, and (x) is the formula for the terms
+-----------------------------------------------------------------------------------------------------------------------------------
+q:How can you rewrite the following? NΣi=1(i)
+a:(N^2+N)/2
+ - Rule 'D' - "Divi-2" it's the one equation that gets divided by 2
+q:How can you rewrite the following? NΣi=1(1)
+a:N
+ - Rule 'C' - "Constant" self explanatory - just becomes a constant = to upper limit
+
+q:How can you rewrite the following? bΣi=a(1)
+a:b-a+1
+ - Rule 'B' - Battle - equation looks like the word battle
+
+q:How can you rewrite the following? bΣi=1(M) - assuming M is independant of i (copy-paste formula to make typing it easier)
+a:M(bΣi=a(1))
+ - or M(b-a+1) - Rule 'E' - "Escape" - the M got out of the equation
+
+q:How can you rewrite the following? bΣi=a(A*i) (copy-paste formula to make typing it easier)
+a:A*(bΣi=a(i))
+ - Rule 'F' - "Forgetful" - the A escaped, but forgot the i
+
+q:How can you rewrite the following? bΣi=a(Ai+B)
+a:(bΣi=a(Ai))+(bΣi=a(B))
+ - Rule 'A' - "Asexual reproduction - mitosis" - one equation separates into 2
+
+
+h:Order of Growth of Functions
+------------------------------
+
+q:Rearrange the following from slowest to fasted in growth: (just write the indicies,separated by commas) 1:n^c, 2:3^n, 3:n^3, 4:logn, 5:nlogn, 6:n!, 7:n^2, 8:n^2logn, 9:n, 10:3^n, 11:2^n, 12:c^n, 13:n^c(0<c<1), 14:1
+a:14,4,13,9,5,7,8,3,1,11,2,10,12,6
+
+
+h:Order of Growth of Functions pt.2
+-----------------------------------
+q:which grows slower: logn or n?
+a:logn
+ - logarithmic
+q:which grows slower: n^c or c^n?
+a:n^c
+ - polynomial
+q:which grows slower: n^c where (0<c<1) or n?
+a:n^c
+ - polynomial
+q:which grows slower: logn or n^c where (0<c<1)?
+a:logn
+ - logarithmic
+q:which grows slower: nlogn or n?
+a:n
+ - linear
+q:which grows slower: n^2logn or n^2
+a:n^2
+ quadratic
+q:which grows slower: n^3 or n^2logn?
+a:n^2logn
+
+q:which grows slower: nlogn or n^2? 
+a:logn
+ - logarithmic
+
+
+
+
+
+h:big O notation
+----------------
+q:What is the rule for Big O notation if T(n) belongs to the set O(f(n))
+a:T(n)<=M*f(n) for all n>=n0
+ - good job if wording slightly different but right idea
+
+q:If T(n) is O(n^2), is it also O(n^3) (yes or no)
+a:yes
+ - it is O() of anything that grows faster than it also
+
+q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 1; i <= n; i*=c) 
+a:O(logn)
+ - note, not logc - will run an amount of times, logarithmically, depending on a max value of n
+
+q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i+=c)  
+a:O(n)
+ - will run an amount of time depending, linearly, on n
+
+q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= c; i++)  
+a:O(1)
+ - will always run the same amount of times
+
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= c; i++)  
+a:O(f(n))
+
+
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i-=c)
+a:O(n*f(n))
+
+
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i*=c)
+a:O(logn*f(n))
+
+
+
+
+
+
+
+

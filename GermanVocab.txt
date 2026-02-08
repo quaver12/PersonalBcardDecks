@@ -382,6 +382,32 @@ a:schauen
  - 
 
 
+
+
+
+h:GET PUT RIGHT (stellen vs stehen)
+-----------------------------------
+q:to place (something standing up)
+a:stellen
+
+q:to place (something lying down)
+a:legen
+
+q:to place (something sitting down)
+a:setzen
+
+q:to stand (stationary)
+a:stehen
+
+q:to lie (stationary)
+a:liegen
+
+q:to sit (stationary)
+a:sitzen
+
+
+
+
 h:adverbs
 ---------
 q:hopefully
