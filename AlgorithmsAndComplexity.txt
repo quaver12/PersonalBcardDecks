@@ -25,14 +25,13 @@ a:constant
 q:what type of complexity does the following have: T(n) = 5n+3
 a:linear
 
-q:what type of complexity does the following code have: 
-a:
 
 h:The Sigma rules: ABCDEF - Assume NΣi=1(x) where N is the upper limit, Σ is sigma, i=1 is the lower limit, and (x) is the formula for the terms
 -----------------------------------------------------------------------------------------------------------------------------------
 q:How can you rewrite the following? NΣi=1(i)
-a:(N^2+N)/2
+a:(N(N+1))/2
  - Rule 'D' - "Divi-2" it's the one equation that gets divided by 2
+
 q:How can you rewrite the following? NΣi=1(1)
 a:N
  - Rule 'C' - "Constant" self explanatory - just becomes a constant = to upper limit
@@ -52,6 +51,11 @@ a:A*(bΣi=a(i))
 q:How can you rewrite the following? bΣi=a(Ai+B)
 a:(bΣi=a(Ai))+(bΣi=a(B))
  - Rule 'A' - "Asexual reproduction - mitosis" - one equation separates into 2
+
+q:write the for loop that is the same as the "battle" sigma equation
+a:for(i=a;i<=b;i++)
+
+
 
 
 h:Order of Growth of Functions
@@ -85,7 +89,7 @@ q:which grows slower: n^3 or n^2logn?
 a:n^2logn
 
 q:which grows slower: nlogn or n^2? 
-a:logn
+a:nlogn
  - logarithmic
 
 
@@ -102,27 +106,27 @@ q:If T(n) is O(n^2), is it also O(n^3) (yes or no)
 a:yes
  - it is O() of anything that grows faster than it also
 
-q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 1; i <= n; i*=c) 
+q:Assuming the contents of the following loop is O(1) and c is a constant, write the big O notation of the following code: for (int i = 1; i <= n; i*=c) 
 a:O(logn)
  - note, not logc - will run an amount of times, logarithmically, depending on a max value of n
 
-q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i+=c)  
+q:Assuming the contents of the following loop is O(1) and c is a constant,  write the big O notation of the following code: for (int i = 0; i <= n; i+=c)  
 a:O(n)
  - will run an amount of time depending, linearly, on n
 
-q:Assuming the contents of the following loop is O(1) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= c; i++)  
+q:Assuming the contents of the following loop is O(1) and c is a constant,  write the big O notation of the following code: for (int i = 0; i <= c; i++)  
 a:O(1)
  - will always run the same amount of times
 
-q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= c; i++)  
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, write the big O notation of the following code: for (int i = 0; i <= c; i++)  
 a:O(f(n))
 
 
-q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i-=c)
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, write the big O notation of the following code: for (int i = 0; i <= n; i-=c)
 a:O(n*f(n))
 
 
-q:Assuming the contents of the following loop is O(f(n)) and c is a constant, what is the value of f(n) for O(f(n)): for (int i = 0; i <= n; i*=c)
+q:Assuming the contents of the following loop is O(f(n)) and c is a constant, write the big O notation of the following code: for (int i = 0; i <= n; i*=c)
 a:O(logn*f(n))
 
 

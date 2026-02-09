@@ -1,0 +1,113 @@
+
+h:Directives Intro
+------------------
+q:Which directive that exposes labels (e.g., functions) from the code to the assembler and linker?
+a:.global
+
+q:Which directive Contains statically allocated variables that are declared but not yet initialised?
+a:.bss
+
+q:Which directive contains initialised static variables, e.g., global variables set to a value. 
+a:.data
+
+q:Which directive contains initialized constants, i.e., read-only variables. 
+a:.rodata
+
+q:Which directive lists the executable instructions. 
+a:.text
+
+
+h:.type directives
+------------------
+q:Which .type directive means a 1-byte integer?
+a:.byte
+
+q:Which .type directive means a 2-byte integer?
+a:.short
+
+q:Which .type directive means a 4-byte integer?
+a:.word
+
+q:Which .type directive means a 8-byte integer?
+a:.quad
+
+q:Which .type directive means a quote-enclosed string?
+a:.ascii
+
+q:Which .type directive means a null-terminated string?
+a:.asciz
+
+
+h:ARM Instruction Set: Bit Shifting
+-----------------------------------
+q:Which instruction shifts each bit left?
+a:lsl
+ - logical shift left
+
+q:Which instruction shifts each bit right?
+a:lsr
+ - logical shift right
+
+q:Which instruction shifts each bit right, and will not turn a negative number positive?
+a:asr
+ - arithmetic shift right
+
+q:Which instruction rotates each bit right?
+a:ror
+ - right rotation - note: left rotation does not exist as it is the same as ror
+
+q:true or false? The rotate right instruction is perfect for scenarios where calculating a square root is required?
+a:false
+ - rotate right does not have many (if any) mathematical applications, but is useful for encryption.
+
+
+q:true or false: for all bit shift operations, non-immediate must use the same source and destination register
+a:true
+(i.e, lsl r0, r0, r1)
+
+h:ARM Instruction Set: Logical Operators
+-----------------------------------
+q:Which instruction completes the following (using C bitwise operations): Rd = Rn & Rm
+a:and 
+ - 
+q:Which instruction completes the following (using C bitwise operations): Rd = Rn | Rm
+a:orr
+ - 
+q:Which instruction completes the following (using C bitwise operations): Rd = Rn ^ Rm
+a:eor
+ - exclusive OR
+q:Which instruction completes the following (using C bitwise operations): Rd = ~Rn
+a:mvn
+ - move not
+q:Which instruction completes the following (using C bitwise operations): Rd = Rn & ~Rm
+a:bic
+ -  bit clear
+q:Which instruction completes the following (using C bitwise operations): Rd = Rn | ~Rm
+a:orn
+ - (or not)
+q:true or false: all of these operations update the O and C flags
+a:false
+ - they update the N and Z flags (Negative and Zero), not the Carry or Overflow flags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
