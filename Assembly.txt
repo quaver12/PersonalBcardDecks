@@ -1,7 +1,7 @@
 
 h:Directives Intro
 ------------------
-q:Which directive that exposes labels (e.g., functions) from the code to the assembler and linker?
+q:Which directive exposes labels (e.g., functions) from the code to the assembler and linker?
 a:.global
 
 q:Which directive Contains statically allocated variables that are declared but not yet initialised?
@@ -85,7 +85,7 @@ a:bic
 q:Which instruction completes the following (using C bitwise operations): Rd = Rn | ~Rm
 a:orn
  - (or not)
-q:true or false: all of these operations update the O and C flags
+q:true or false: all arm assembly logical operators update the O and C flags
 a:false
  - they update the N and Z flags (Negative and Zero), not the Carry or Overflow flags
 
